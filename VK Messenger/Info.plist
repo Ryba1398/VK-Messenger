@@ -41,5 +41,27 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    
+    
+
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLName</key>
+            <string>Ryb.CO.VK-Messenger</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>vk6738119</string>
+            </array>
+        </dict>
+    </array>
+    
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>vk</string>
+        <string>vk-share</string>
+        <string>vkauthorize</string>
+    </array>
+    
 </dict>
 </plist>
